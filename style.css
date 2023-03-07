@@ -1,0 +1,36 @@
+.wrapper {
+    max-width: 1900px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    margin: 25px;
+    align-items: center;
+}
+.textArea {
+    width: 500px;
+    height: 200px;
+    padding: 15px;
+    margin-bottom: 50px;
+}
+.analysis {
+    max-width: 100px;
+}
+.info {
+    display: flex;
+    max-width: 1300px;
+}
+.info p {
+    margin: 30px;
+}
+
